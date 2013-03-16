@@ -7,7 +7,7 @@
 			File.open(path, "w") do |file|
 
 				if fajefae
-					aejfiajefi
+					ajefi
 				end
 
 				"{klass}" if $VERBOSE
